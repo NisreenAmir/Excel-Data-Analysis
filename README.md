@@ -11,18 +11,18 @@ Cleaning and exploring data and clarifying total sales and profits for six years
 ## Project Structure
 
 **1.Data Cleaning:**
-  ° Identify and remove any records with missing or null values.
-  ° Identify and remove any dublicated values.
-  ° Create a column (Id) containing unique values for data.
-  ° Made sure the date formats, numbers and texts were correct.
-  ° Make sure there are no negative or illogical values in the currency columns.
+  1. Identify and remove any records with missing or null values.
+  2. Identify and remove any dublicated values.
+  3. Create a column (Id) containing unique values for data.
+  4. Made sure the date formats, numbers and texts were correct.
+  5. Make sure there are no negative or illogical values in the currency columns.
 **2.Data Exploration:**
-  ° Review data size (number of rows and columns).
-  ° Understand data types (numbers, dates, text).
-  ° Analyze sales distribution by year.
-  ° Analyze sales distribution by category (bikes, accessories, clothing).
-  ° Identify the most demanding customers.
-  ° Explore patterns (such as best-selling seasons or months).
+  1. Review data size (number of rows and columns).
+  2. Understand data types (numbers, dates, text).
+  3. Analyze sales distribution by year.
+  4. Analyze sales distribution by category (bikes, accessories, clothing).
+  5. Identify the most demanding customers.
+  6. Explore patterns (such as best-selling seasons or months).
 **3.Data Analysis:**
   °Calculate total sales and profits for each year.
   °Compare sales across categories (bikes, accessories, clothing).
