@@ -31,7 +31,7 @@ Cleaning and exploring data and clarifying total sales and profits for six years
   3. Analysis of the most in-demand products.
   4. Analysis of the most in-demand geographic areas.
   5. Calculate the profits for each category.
-  6. 
+
 **4.Data Visualization:**
   1. Calculate total sales and profits for each year.
   2. Compare sales across categories (bikes, accessories, clothing).
@@ -45,24 +45,31 @@ Cleaning and exploring data and clarifying total sales and profits for six years
   3. Sales percentage by audience.
   4. Least-demanding products.
   5. Recommendations, such as increased interest in higher-profit products or investment in specific geographic areas.
-  6. 
+     
 **6.Tools used:**
   1. Microsoft Excel (Pivot Table / Charts / Dashboards)
 
 ## Conclusion
 
 **1.Top Revenue Year:** The year 2015 recorded the highest revenue.
+
 **2.Sales Seasonality:** Sales consistently peak between July and December, with December being the strongest month each year.
+
 **3.Profitability:** The average profit across six years is 43.63%.
+
 **4.Revenue by Product Category:**'
   - Highest: Bikes
   - Lowest: Clothing
+    
 **5.Orders by Product Category:**
   - Highest: Accessories
   - Lowest: Bikes
+    
 **6.Customer Demographics:**
   **Age groups:** 35–64 years (50%) dominate, followed by 25–34 years (36%).
+  
   **Gender:'** Men (52%) slightly outperform Women (48%).
+  
   **Geographic Performance:**
     - Highest: United States
     - Lowest: Canada
