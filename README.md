@@ -16,6 +16,7 @@ Cleaning and exploring data and clarifying total sales and profits for six years
   3. Create a column (Id) containing unique values for data.
   4. Made sure the date formats, numbers and texts were correct.
   5. Make sure there are no negative or illogical values in the currency columns.
+     
 **2.Data Exploration:**
   1. Review data size (number of rows and columns).
   2. Understand data types (numbers, dates, text).
@@ -23,6 +24,7 @@ Cleaning and exploring data and clarifying total sales and profits for six years
   4. Analyze sales distribution by category (bikes, accessories, clothing).
   5. Identify the most demanding customers.
   6. Explore patterns (such as best-selling seasons or months).
+
 **3.Data Analysis:**
   °Calculate total sales and profits for each year.
   °Compare sales across categories (bikes, accessories, clothing).
