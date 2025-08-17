@@ -26,25 +26,28 @@ Cleaning and exploring data and clarifying total sales and profits for six years
   6. Explore patterns (such as best-selling seasons or months).
 
 **3.Data Analysis:**
-  °Calculate total sales and profits for each year.
-  °Compare sales across categories (bikes, accessories, clothing).
-  °Analysis of the most in-demand products.
-  °Analysis of the most in-demand geographic areas.
-  °Calculate the profits for each category.
+  1. Calculate total sales and profits for each year.
+  2. Compare sales across categories (bikes, accessories, clothing).
+  3. Analysis of the most in-demand products.
+  4. Analysis of the most in-demand geographic areas.
+  5. Calculate the profits for each category.
+  6. 
 **4.Data Visualization:**
-  °Calculate total sales and profits for each year.
-  °Compare sales across categories (bikes, accessories, clothing).
-  °Analysis of the most in-demand products.
-  °Analysis of the most in-demand geographic areas.
-  °Calculate the profits for each category.
+  1. Calculate total sales and profits for each year.
+  2. Compare sales across categories (bikes, accessories, clothing).
+  3. Analysis of the most in-demand products.
+  4. Analysis of the most in-demand geographic areas.
+  5. Calculate the profits for each category.
+
 **5.Insights:**
-  °Best-selling year.
-  °Best-selling product/category.
-  °Sales percentage by audience.
-  °Least-demanding products.
-  °Recommendations, such as increased interest in higher-profit products or investment in specific geographic areas.
+  1. Best-selling year.
+  2. Best-selling product/category.
+  3. Sales percentage by audience.
+  4. Least-demanding products.
+  5. Recommendations, such as increased interest in higher-profit products or investment in specific geographic areas.
+  6. 
 **6.Tools used:**
-  °Microsoft Excel (Pivot Table / Charts / Dashboards)
+  1. Microsoft Excel (Pivot Table / Charts / Dashboards)
 
 ## Conclusion
 
@@ -52,17 +55,17 @@ Cleaning and exploring data and clarifying total sales and profits for six years
 **2.Sales Seasonality:** Sales consistently peak between July and December, with December being the strongest month each year.
 **3.Profitability:** The average profit across six years is 43.63%.
 **4.Revenue by Product Category:**'
-   °Highest: Bikes
-   °Lowest: Clothing
+  - Highest: Bikes
+  - Lowest: Clothing
 **5.Orders by Product Category:**
-   °Highest: Accessories
-   °Lowest: Bikes
+  - Highest: Accessories
+  - Lowest: Bikes
 **6.Customer Demographics:**
   **Age groups:** 35–64 years (50%) dominate, followed by 25–34 years (36%).
   **Gender:'** Men (52%) slightly outperform Women (48%).
   **Geographic Performance:**
-    °Highest: United States
-    °Lowest: Canada
+    - Highest: United States
+    - Lowest: Canada
     
 Overall, the business shows strong performance in bike sales revenue, while accessories drive order volume. The target customer profile is men aged 35–64 in the US, with December being the most profitable period each year.  
   
