@@ -1,4 +1,5 @@
-# Excel-Data-Analysis (bike's shop sales)
+# Data-Analysis 
+Bike's shop sales Analysis by Excel 
 
 ## Project overview
 
